@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>게시판 만드ㅓㄹ바쓰요</h2>
+	list.jsp 파일에 내용추가
 </body>
 </html>
