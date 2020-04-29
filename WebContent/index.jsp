@@ -7,6 +7,6 @@
 <title>index.jsp</title>
 </head>
 <body>
-
+	<h2>태그</h2>
 </body>
 </html>
